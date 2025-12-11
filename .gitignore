@@ -1,0 +1,93 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sensitive info - YOUR API KEYS!)
+local.properties
+
+# Gradle properties that might contain secrets
+gradle.properties
+
+# Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+.navigation/
+.captures/
+
+# Keystore files
+*.jks
+*.keystore
+
+# External native build folder
+.externalNativeBuild/
+.cxx/
+
+# Android Studio captures folder
+captures/
+
+# IntelliJ
+*.hprof
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Log Files
+*.log
+
+# Windows shortcuts
+*.lnk
+
+# Temporary files
+*.tmp
+*.temp
+
+# Kotlin
+*.kotlin_module
+
+# Profiling
+*.hprof
+
+# App-specific
+app/build/
+app/.cxx/
+app/.gradle/
+app/release/
+app/debug/
+
+# Module-specific
+*.module
+
+# Firebase
+google-services.json  # If you add Firebase later
+GoogleService-Info.plist
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/readme.md
+
+# VS Code
+.vscode/

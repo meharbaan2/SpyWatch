@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SpyWatch</string>
+    <string name="wallpaper_description">Live radar watch with telemetry</string>
+</resources>
