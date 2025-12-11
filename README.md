@@ -45,7 +45,7 @@
 
 ### Setup
 ```bash
-git clone https://github.com/yourusername/spywatch.git
+git clone https://github.com/meharbaan2/SpyWatch
 cd spywatch  
 Create a local.properties file:  
 weather.api.key=your_openweathermap_api_key_here  
